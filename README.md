@@ -6,7 +6,7 @@ I'm a big believer in moonshots ☄️ - those ambitious ideas today that redefi
 
 - 🔭 I'm currently working on an analytics pipeline for various stakeholders in healthtech companies to extract the most relevant data for their organization.
 - 🧬 I’m interested in preventative health, wearable tech, neuroscience, AI agents.
-- 🌱 I’m currently learning query optimization, DuckDB, metrics UI, and agentic modeling.
+- 🌱 I’m currently learning query optimization, DuckDB, metrics UI, GDPR/HIPAA compliance, and agentic modeling.
 
 <!---
 SeanDominique/SeanDominique is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
